@@ -71,7 +71,7 @@ const CUSTOMER_SITES = {
 	  api: "https://ckzy.me/api.php/provide/vod",
 	  name: "CK资源"
 	},
-	"wujinzy": {
+	wujinzy: {
 	  api: "https://api.wujinapi.com/api.php/provide/vod",
 	  name: "无尽资源2",
 	 
