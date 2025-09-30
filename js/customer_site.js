@@ -3,7 +3,7 @@
  * @Author: 张泽雨
  * @Date: 2025-09-30 10:40:48
  * @LastEditors: 张泽雨
- * @LastEditTime: 2025-09-30 11:05:11
+ * @LastEditTime: 2025-09-30 11:18:54
  * @FilePath: /LibreTV/js/customer_site.js
  */
 const CUSTOMER_SITES = {
@@ -30,7 +30,7 @@ const CUSTOMER_SITES = {
   maoyan: {
     api: "https://api.maoyanapi.top/api.php/provide/vod",
     name: "猫眼资源",
-    url: "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    url: "https://api.maoyanapi.top/api.php/provide/vod",
   },
   bfzy: {
     api: "https://bfzyapi.com/api.php/provide/vod",
@@ -75,7 +75,7 @@ const CUSTOMER_SITES = {
   yinghua: {
     api: "https://m3u8.apiyhzy.com/api.php/provide/vod",
     name: "樱花资源",
-    url: "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    url: "https://m3u8.apiyhzy.com/api.php/provide/vod",
   },
   wwzy: {
     api: "https://wwzy.tv/api.php/provide/vod",
